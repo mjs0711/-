@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    color: #333333;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    display: blcok;
+}
+
+body {
+    width: 1000px;
+    height: 650px;
+    background-color: #fff;
+}
+
+.top {
+    width: 200px;
+    height: 650px;
+    float: left;
+    background-color: #9f2382;
+}
